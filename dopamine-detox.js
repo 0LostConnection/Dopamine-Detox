@@ -24,6 +24,8 @@
 // @match        http*://betteranime.net/*
 // @match        http*://www.windows93.net/*
 // @match        http*://soundcloud.com/*
+// @match        http*://www.tiktok.com/*
+// @match        http*://www.facebook.com/*
 // @run-at       document-start
 // ==/UserScript==
  
