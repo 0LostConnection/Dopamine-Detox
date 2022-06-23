@@ -7,6 +7,7 @@
 // @author       LostConnection
 // @license      MIT
 // @updateURL    https://raw.githubusercontent.com/0LostConnection/Dopamine-Detox/main/dopamine-detox.js
+// @downloadURL    https://raw.githubusercontent.com/0LostConnection/Dopamine-Detox/main/dopamine-detox.js
 // @match        http*://twitter.com/*
 // @match        http*://www.youtube.com/*
 // @match        http*://www.instagram.com/*
