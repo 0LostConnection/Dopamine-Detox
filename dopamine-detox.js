@@ -28,7 +28,6 @@
 // @match        http*://www.facebook.com/*
 // @run-at       document-start
 // ==/UserScript==
- 
 (function() {
     'use strict';
     window.stop();
