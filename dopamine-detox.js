@@ -5,6 +5,8 @@
 // @icon         https://cdn-icons-png.flaticon.com/512/2059/2059802.png
 // @version      1.0
 // @author       LostConnection
+// @license      MIT
+// @updateURL    https://raw.githubusercontent.com/0LostConnection/Dopamine-Detox/main/dopamine-detox.js
 // @match        http*://twitter.com/*
 // @match        http*://www.youtube.com/*
 // @match        http*://www.instagram.com/*
@@ -23,7 +25,7 @@
 // @match        http*://soundcloud.com/*
 // @run-at       document-start
 // ==/UserScript==
-
+ 
 (function() {
     'use strict';
     window.stop();
